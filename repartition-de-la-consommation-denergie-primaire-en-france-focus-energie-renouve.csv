@@ -1,0 +1,113 @@
+annee;type_energie_renouvelable;part_d_energie_renouvelable;commentaire;type
+2007;Hydraulique (normalisé);3.49364577208;;Hydraulic (standardized)
+2012;Hydraulique (normalisé);3.33261785475;Révisé;Hydraulic (standardized)
+2013;Hydraulique (normalisé);3.30081062006;;Hydraulic (standardized)
+2015;Hydraulique (normalisé);3.38281435985;;Hydraulic (standardized)
+2013;Éolien (normalisé);0.835339396312;;Wind power (standardized)
+2015;Éolien (normalisé);1.11830049017;;Wind power (standardized)
+2018;Éolien (normalisé);1.58988801808;;Wind power (standardized)
+2018;Autres filières électriques;1.10146811411;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2020;Autres filières électriques;1.4175814631;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2009;Biomasse solide;5.68135268217;;Solid biomass
+2006;Pompes à chaleur;0.217119339568;;Heat Pumps
+2011;Pompes à chaleur;0.868905356113;;Heat Pumps
+2014;Pompes à chaleur;1.19209470758;;Heat Pumps
+2005;Autres filières chaleur;0.122231392945;Solaire thermique, géothermie et biogaz;Other heat sources
+2012;Autres filières chaleur;0.206225317862;Solaire thermique, géothermie et biogaz;Other heat sources
+2015;Autres filières chaleur;0.291663041459;Solaire thermique, géothermie et biogaz;Other heat sources
+2014;Biocarburants;1.94499543397;;Biofuels
+2006;Hydraulique (normalisé);3.46436084301;;Hydraulic (standardized)
+2010;Hydraulique (normalisé);3.38296504193;;Hydraulic (standardized)
+2017;Hydraulique (normalisé);3.26409637406;;Hydraulic (standardized)
+2019;Hydraulique (normalisé);3.33686657752;Révisé;Hydraulic (standardized)
+2006;Éolien (normalisé);0.115299744219;;Wind power (standardized)
+2008;Éolien (normalisé);0.310283577157;;Wind power (standardized)
+2010;Éolien (normalisé);0.556020215884;;Wind power (standardized)
+2011;Éolien (normalisé);0.694425866333;;Wind power (standardized)
+2005;Autres filières électriques;0.206838323076;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2007;Autres filières électriques;0.252305430674;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2007;Biomasse solide;5.00588575762;;Solid biomass
+2011;Biomasse solide;5.36592859574;;Solid biomass
+2012;Biomasse solide;5.80536084354;Révisé;Solid biomass
+2014;Biomasse solide;5.78974467327;Révisé;Solid biomass
+2017;Biomasse solide;6.25010208625;;Solid biomass
+2018;Biomasse solide;6.24506088748;Révisé;Solid biomass
+2019;Biomasse solide;6.35637394229;;Solid biomass
+2020;Biomasse solide;6.62157345056;;Solid biomass
+2005;Pompes à chaleur;0.122163060371;;Heat Pumps
+2007;Pompes à chaleur;0.34832207061;;Heat Pumps
+2008;Pompes à chaleur;0.485284122396;;Heat Pumps
+2012;Pompes à chaleur;0.934262214149;;Heat Pumps
+2013;Pompes à chaleur;1.01222522993;;Heat Pumps
+2016;Pompes à chaleur;1.38377207003;;Heat Pumps
+2019;Pompes à chaleur;1.89183380672;;Heat Pumps
+2008;Autres filières chaleur;0.147976118847;Solaire thermique, géothermie et biogaz;Other heat sources
+2014;Autres filières chaleur;0.274349152831;Solaire thermique, géothermie et biogaz;Other heat sources
+2006;Biocarburants;0.433628793351;;Biofuels
+2015;Biocarburants;1.93141327397;;Biofuels
+2016;Biocarburants;1.97749987139;;Biofuels
+2008;Hydraulique (normalisé);3.44870283929;;Hydraulic (standardized)
+2009;Hydraulique (normalisé);3.50474251075;;Hydraulic (standardized)
+2011;Hydraulique (normalisé);3.48572965187;;Hydraulic (standardized)
+2014;Hydraulique (normalisé);3.50195127171;;Hydraulic (standardized)
+2020;Hydraulique (normalisé);3.77467370651;;Hydraulic (standardized)
+2005;Éolien (normalisé);0.0576228533219;;Wind power (standardized)
+2019;Éolien (normalisé);1.811852589;;Wind power (standardized)
+2020;Éolien (normalisé);2.25147076572;;Wind power (standardized)
+2009;Autres filières électriques;0.285297235765;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2011;Autres filières électriques;0.462882330247;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2012;Autres filières électriques;0.550441713542;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2015;Autres filières électriques;0.823508925403;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2008;Biomasse solide;5.20516239868;;Solid biomass
+2015;Pompes à chaleur;1.28298193266;;Heat Pumps
+2017;Pompes à chaleur;1.51425372193;;Heat Pumps
+2018;Pompes à chaleur;1.67620008291;;Heat Pumps
+2016;Autres filières chaleur;0.330100727172;Solaire thermique, géothermie et biogaz;Other heat sources
+2017;Autres filières chaleur;0.393614952584;Solaire thermique, géothermie et biogaz;Other heat sources
+2018;Autres filières chaleur;0.432723689535;Solaire thermique, géothermie et biogaz;Other heat sources
+2010;Biocarburants;1.48685262875;;Biofuels
+2012;Biocarburants;1.67394552235;;Biofuels
+2017;Biocarburants;2.09945993873;;Biofuels
+2019;Biocarburants;2.13055746015;;Biofuels
+2016;Hydraulique (normalisé);3.2836408492;;Hydraulic (standardized)
+2018;Hydraulique (normalisé);3.31869354381;Révisé;Hydraulic (standardized)
+2007;Éolien (normalisé);0.208562606641;;Wind power (standardized)
+2012;Éolien (normalisé);0.771477155908;;Wind power (standardized)
+2014;Éolien (normalisé);0.986337400747;;Wind power (standardized)
+2008;Autres filières électriques;0.261550118785;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2013;Autres filières électriques;0.600578156445;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2014;Autres filières électriques;0.732335015342;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2016;Autres filières électriques;0.915797997945;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2017;Autres filières électriques;0.987914725746;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2019;Autres filières électriques;1.19866721238;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2006;Biomasse solide;4.74918061016;;Solid biomass
+2013;Biomasse solide;6.27846937664;Révisé;Solid biomass
+2010;Pompes à chaleur;0.721940004709;;Heat Pumps
+2020;Pompes à chaleur;2.33124695915;;Heat Pumps
+2006;Autres filières chaleur;0.131571270349;Solaire thermique, géothermie et biogaz;Other heat sources
+2007;Autres filières chaleur;0.140128724999;Solaire thermique, géothermie et biogaz;Other heat sources
+2009;Autres filières chaleur;0.160941662969;Solaire thermique, géothermie et biogaz;Other heat sources
+2010;Autres filières chaleur;0.170821691313;Solaire thermique, géothermie et biogaz;Other heat sources
+2019;Autres filières chaleur;0.481203485356;Solaire thermique, géothermie et biogaz;Other heat sources
+2009;Biocarburants;1.56340179218;;Biofuels
+2011;Biocarburants;1.57687827883;;Biofuels
+2020;Biocarburants;2.10920791782;;Biofuels
+2005;Hydraulique (normalisé);3.41963438073;;Hydraulic (standardized)
+2009;Éolien (normalisé);0.446602974156;;Wind power (standardized)
+2016;Éolien (normalisé);1.22805565325;;Wind power (standardized)
+2017;Éolien (normalisé);1.3921148821;;Wind power (standardized)
+2006;Autres filières électriques;0.215630145839;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2010;Autres filières électriques;0.320536417053;Solaire photovoltaïque, énergies marines et électricité à partir de biomasse et de géothermie;Other electrical industries
+2005;Biomasse solide;4.9665186665;;Solid biomass
+2010;Biomasse solide;6.08922015876;;Solid biomass
+2015;Biomasse solide;6.03000793715;Révisé;Solid biomass
+2016;Biomasse solide;6.38050215055;Révisé;Solid biomass
+2009;Pompes à chaleur;0.637528254129;;Heat Pumps
+2011;Autres filières chaleur;0.201026672628;Solaire thermique, géothermie et biogaz;Other heat sources
+2013;Autres filières chaleur;0.23082171154;Solaire thermique, géothermie et biogaz;Other heat sources
+2020;Autres filières chaleur;0.59169669786;Solaire thermique, géothermie et biogaz;Other heat sources
+2005;Biocarburants;0.355607729516;;Biofuels
+2007;Biocarburants;0.890709294845;;Biofuels
+2008;Biocarburants;1.41847568604;;Biofuels
+2013;Biocarburants;1.64926360276;;Biofuels
+2018;Biocarburants;2.07640242714;;Biofuels
